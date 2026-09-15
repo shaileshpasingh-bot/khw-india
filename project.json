@@ -1,0 +1,19 @@
+{
+  "overview": "A complete, interactive nonprofit website for Kinderhilfswerk Society (KHW-India) with public pages and a protected admin dashboard, all running on local mock data in the browser.",
+  "features": [
+    "Public pages: Home, About, Programs, Impact Stories, Get Involved, Events, Partners, Transparency, Contact, Donate",
+    "Dark mode toggle and English/Hindi language switcher",
+    "Reusable testimonials carousel and animated impact stats",
+    "Protected admin dashboard with live analytics, charts, and CSV exports",
+    "Content management for stories, programs, volunteers, events, partners, and reports",
+    "Working forms that store data and update the dashboard live"
+  ],
+  "category": "nonprofit-website",
+  "tags": [
+    "nonprofit",
+    "charity",
+    "showcase",
+    "admin-dashboard"
+  ],
+  "last_updated": "2026-09-10T06:14:37.513Z"
+}
